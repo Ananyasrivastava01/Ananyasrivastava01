@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananyasrivastava01" alt="ananyasrivastava01" /></a> </p>
 
-- 🔭 I’m currently working on **data structures**
-
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **srivastavaananya113@gmail.com**
 
